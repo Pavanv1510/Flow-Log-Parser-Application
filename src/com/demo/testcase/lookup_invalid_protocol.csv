@@ -1,0 +1,4 @@
+443,tcp,web
+80,TcP,http
+53,UDP,dns
+25,ftp,email

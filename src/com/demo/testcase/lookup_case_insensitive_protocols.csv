@@ -1,0 +1,11 @@
+dstport,protocol,tag
+443,TCP,web
+53,udp,dns
+80,HtTp,web
+21,FTP,filetransfer
+22,tcp,ssh
+25,SMTP,email
+110,Pop3,email
+3389,TcP,remoteaccess
+123,ntp,time
+161,uDP,snmp
